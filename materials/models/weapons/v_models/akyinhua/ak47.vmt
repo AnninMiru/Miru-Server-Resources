@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+
+$baseTexture "models\weapons\v_models\akyinhua\ak47"
+"$phongexponenttexture"  "models\weapons\v_models\akyinhua\ak47_exponent"
+$bumpmap  "models\weapons\v_models\akyinhua\ak47_n"
+"$lightwarptexture" "models\weapons\v_models\akyinhua\lightwarp"
+
+
+
+ 
+
+
+ "$phong" "0.5"
+	"$phongexponent" "80"
+	"$phongalbedoboost" "5"
+	"$phongboost" "5"
+	"$phongalbedoboost" "5"
+	"$phongfresnelranges" "[.83 .83 1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "1"
+}
